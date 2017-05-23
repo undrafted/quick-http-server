@@ -1,2 +1,2 @@
 # http-server
-bare minimum http server setup in node to serve angular apps
+minimum http server setup in node/express to serve angular apps
